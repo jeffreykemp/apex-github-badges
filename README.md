@@ -1,4 +1,7 @@
-# Oracle APEX GitHub Badges [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+# Oracle APEX GitHub Badges
+
+[![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 Because every APEX project on GitHub needs its own badge.
 
@@ -6,16 +9,47 @@ Because every APEX project on GitHub needs its own badge.
 ## Contents
 
 - [Badges](#badges)
+  - [Overview](#overview)
   - [Community Badge](#community-badge)
   - [App Badge](#app-badge)
   - [Plugin Badge](#plugin-badge)
   - [Theme Badge](#theme-badge)
+  - [Tool Badge](#tool-badge)
   - [Education Badge](#education-badge)
-  - [APEX Versions](#version-badges)
+  - [Version Badges](#version-badges)
+    - [APEX 4.2](#apex-42)
+    - [APEX 5.0](#apex-50)
+    - [APEX 5.1](#apex-51)
+    - [APEX 18.1](#apex-181)
+    - [APEX 18.2](#apex-182)
+  - [Language Badges](#language-badges)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
+    - [PL/SQL](#plsql)
+  - [Built with Love Badge](#built-with-love-badge)
 - [Create your own Badge](#create-your-own-badge)
 
 
 ## Badges
+
+
+### Overview
+
+[![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX App](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-app-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Plugin](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-plugin-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Theme](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-theme-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Tool](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-tool-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Education](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/c527f26f/badges/apex-education-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 4.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-4_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 5.0](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_0-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX 5.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX HTML](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-html-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX CSS](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-css-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX JavaScript](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-javascript-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX PL/SQL](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 
 ### Community Badge
@@ -122,47 +156,179 @@ Markdown Code:
 
 ### Version Badges
 
-[![APEX 4.2](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+#### APEX 4.2
+
+[![APEX 4.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-4_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 Link to SVG file:
 
 ```
-https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-4_2-badge.svg
 ```
 
 Markdown Code:
 
 ```
-[![APEX 4.2](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-4.2-badge.svg)](<LINK>)
+[![APEX 4.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-4_2-badge.svg)](<LINK>)
 ```
 
-[![APEX 5.0](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+#### APEX 5.0
+
+[![APEX 5.0](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_0-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 Link to SVG file:
 
 ```
-https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_0-badge.svg
 ```
 
 Markdown Code:
 
 ```
-[![APEX 5.0](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.0-badge.svg)](<LINK>)
+[![APEX 5.0](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_0-badge.svg)](<LINK>)
 ```
 
-[![APEX 5.1](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+#### APEX 5.1
+
+[![APEX 5.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 Link to SVG file:
 
 ```
-https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_1-badge.svg
 ```
 
 Markdown Code:
 
 ```
-[![APEX 5.1](https://cdn.rawgit.com/jeffreykemp/apex-github-badges/master/badges/apex-5.1-badge.svg)](<LINK>)
+[![APEX 5.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/88f0a6ed/badges/apex-5_1-badge.svg)](<LINK>)
 ```
+
+
+#### APEX 18.1
+
+[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_1-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_1-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 18.1](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_1-badge.svg)](<LINK>)
+```
+
+
+#### APEX 18.2
+
+[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_2-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_2-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX 18.2](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/2fee47b7/badges/apex-18_2-badge.svg)](<LINK>)
+```
+
+
+### Language Badges
+
+
+#### HTML
+
+[![APEX HTML](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-html-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-html-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX HTML](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-html-badge.svg)](<LINK>)
+```
+
+
+#### CSS
+
+[![APEX CSS](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-css-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-css-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX CSS](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-css-badge.svg)](<LINK>)
+```
+
+
+#### JavaScript
+
+[![APEX JavaScript](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-javascript-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-javascript-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX JavaScript](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-javascript-badge.svg)](<LINK>)
+```
+
+
+#### PL/SQL
+
+[![APEX PL/SQL](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX PL/SQL](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/6ed914a1/badges/apex-plsql-badge.svg)](<LINK>)
+```
+
+
+### Built with Love Badge
+
+[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
+
+Link to SVG file:
+
+```
+https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg
+```
+
+Markdown Code:
+
+```
+[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](<LINK>)
+```
+
 
 ## Create your own Badge
 
